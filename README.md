@@ -70,6 +70,10 @@ Madkudu Agent is an AI-driven autonomous system designed to streamline lead scor
 
 ---
 
+![Image Description](output.png)
+
+---
+
 ## **Upcoming Features**
 1. **CRM API Integration**:
    - Automate the input of lead data directly from CRM platform.
