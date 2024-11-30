@@ -1,0 +1,4 @@
+send_followup_email:
+  type: "email"
+  description: "Send a follow-up email to the shortlisted lead."
+

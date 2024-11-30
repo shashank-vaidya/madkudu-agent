@@ -1,0 +1,53 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment and package-related files
+.env
+*.env
+*.venv
+Pipfile
+Pipfile.lock
+requirements.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/
+!data/*.csv  # Allow sample CSV files
+data/*.pkl
+data/*.log
+
+# Evaluation results
+evaluation_results/
+
+# Model files
+models/
+*.pkl
+*.joblib
+
+# IDE specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and debug outputs
+*.log
+debug/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Git
+.git/
+
+final/
