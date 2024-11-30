@@ -70,6 +70,8 @@ Madkudu Agent is an AI-driven autonomous system designed to streamline lead scor
 
 ---
 
+## **A sample generation**
+
 ![Image Description](output.png)
 
 ---
